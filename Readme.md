@@ -14,7 +14,7 @@ npm i & npm run dev
 ## Install Smart Contact 
 
 - Install Metamask extentation to your browser
-- Find ![Goerli](https://goerlifaucet.com/) faucet address
+- Find [Goerli](https://goerlifaucet.com/) faucet address
 - Send eth to your metamaask account via goerli faucet
 - create account alchemy.com and create test account.
 
